@@ -1,0 +1,4 @@
+#Sat Jul 13 14:28:29 EAT 2024
+base.0=C\:\\xampp\\htdocs\\ThePublicHomeAndroid\\app\\build\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

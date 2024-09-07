@@ -1,0 +1,8 @@
+com/thepublichome/www/twa/DelegationService.java
+ com.thepublichome.www.twa.DelegationService
+com/thepublichome/www/twa/BuildConfig.java
+ com.thepublichome.www.twa.BuildConfig
+com/thepublichome/www/twa/LauncherActivity.java
+ com.thepublichome.www.twa.LauncherActivity
+com/thepublichome/www/twa/Application.java
+ com.thepublichome.www.twa.Application
